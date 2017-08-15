@@ -1,4 +1,13 @@
 <resources>
-    <string name="app_name">Taller1android</string>
+    <string name="app_name">Ivan Diaz</string>
+    <string name="txt2">Prague, Czech Republic</string>
     <string name="txt1">Johnny Depp</string>
+    <string name="txt3">42</string>
+    <string name="txt4">Stories</string>
+    <string name="txt6">517</string>
+    <string name="txt7">Followers</string>
+    <string name="txt8">284</string>
+    <string name="txt9">Following</string>
+    <string name="txt10">My trip to Italy</string>
+    <string name="txt11">I just returned from Italy, Visiting Rome,Venice over the course of two weeks. I went with</string>
 </resources>
